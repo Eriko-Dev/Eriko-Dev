@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/Eriko-Dev/Eriko-Dev/main/assets/logo.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://raw.githubusercontent.com/Eriko-Dev/Eriko-Dev/main/images.png" alt="logo.png" width="200" /> 
 
 ```csharp
 Eriko-Dev@github
