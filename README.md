@@ -5,7 +5,7 @@
 <img align="left" src="https://raw.githubusercontent.com/Eriko-Dev/Eriko-Dev/main/assets/logo.png" alt="logo.png" width="200" /> 
 
 ```csharp
-ecriminal@github
+Eriko-Dev@github
 ----------------
 
        OS  :  Windows 10 21H2
